@@ -1,0 +1,21 @@
+table{
+  width: 100%;
+}
+
+table th,td{
+  padding: .4rem .2rem;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+body{
+  padding: 3rem;
+}
+
+.form-group{
+  margin-bottom: 2rem;
+}
